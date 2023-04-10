@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "wp_connection",
+            "database": "wordpress",
+            "username": "root",
+            "password": "somewordpress"
+        }
+    ],
+    "workbench.list.openMode": "doubleClick",
+    "workbench.tree.expandMode": "doubleClick",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.languageDetection": false,
+    "sqltools.autoOpenSessionFiles": false,
+    "sqltools.historySize": 100,
+    "sqltools.results.location": "current",
+    "sqltools.results.reuseTabs": "connection"
+}
